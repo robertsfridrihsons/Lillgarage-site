@@ -1,8 +1,14 @@
 export default function AutoDetailingLanding() {
+  import logo from './assets/logo.png'
   return (
     <div className="min-h-screen bg-black text-white font-sans">
       {/* Hero Section */}
       <section
+      <img
+  src={logo}
+  alt="LillGarage Logo"
+  className="w-32 md:w-40 mb-6"
+/>
         className="relative h-screen bg-cover bg-center flex items-center"
         style={{
           backgroundImage:
