@@ -41,7 +41,7 @@ const services = [
 const advantages = [
   {
     title: 'Profesionāla pieeja',
-    text: 'Katram automobilim pieejam individuāli.',
+    text: 'Katram automobilim izvēlamies individuālu risinājumu.',
     icon: '✓',
   },
   {
