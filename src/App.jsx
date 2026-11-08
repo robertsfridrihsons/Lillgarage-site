@@ -46,7 +46,7 @@ const advantages = [
   },
   {
     title: 'Kvalitatīvi līdzekļi',
-    text: 'Izmantojam profesionālus detailing produktus.',
+    text: 'Izmantojam profesionālus detailing produktus no ražotāja Zvizzer.',
     icon: '✦',
   },
   {
@@ -56,7 +56,7 @@ const advantages = [
   },
   {
     title: 'Rūpes par auto',
-    text: 'Mērķis ir ne tikai tīrs, bet izcils rezultāts.',
+    text: 'Mērķis ir ne tikai tīrs auto, bet izcils rezultāts.',
     icon: '♢',
   },
 ]
@@ -193,7 +193,6 @@ export default function AutoDetailingLanding() {
               </h1>
 
               <p className="mt-7 max-w-xl text-lg leading-relaxed text-gray-300 md:text-xl">
-                Spīdēsi tavs auto — izskatīsies kā jauns.
                 Profesionāla virsbūves un salona kopšana,
                 pulēšana, keramiskā aizsardzība un premium detailing.
               </p>
@@ -254,7 +253,7 @@ export default function AutoDetailingLanding() {
                     <p className="font-bold text-white">
                       Virsbūves kopšana
                     </p>
-                    <p>Spīdums, tīrība un aizsardzība.</p>
+                    <p>Tīrība un aizsardzība.</p>
                   </div>
 
                   <div>
@@ -266,7 +265,7 @@ export default function AutoDetailingLanding() {
 
                   <div>
                     <p className="font-bold text-white">
-                      Krāsas korekcija
+                      Virsbūves detailing
                     </p>
                     <p>Atjaunots spīdums un dziļums.</p>
                   </div>
